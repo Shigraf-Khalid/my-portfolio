@@ -30,10 +30,9 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Analyst",
+  "Data Analyst",
   "R Expert",
   "SQL Expert",
-  "Data & Big Data",
   "Graphic design",
 ];
 
@@ -43,7 +42,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  " Shigraf Khalid, an aspiring engineering student, is fervently passionate about technology and digital marketing. With hands-on experience and certifications, he's driven to innovate. As a Campus Lead Ambassador for CISCO in Pakistan, Shigraf is dedicated to fostering collaboration and growth in these fields.";
 
 const About = () => {
   return (
